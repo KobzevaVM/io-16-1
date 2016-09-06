@@ -7,9 +7,13 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int a, b;
+    cout << "введите число а" << endl;
+    cin >> a;
+    cout << "введите число b" << endl;
+    cin >> b;
+    cout << a + b << endl;
     return 0;
 }
