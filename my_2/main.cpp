@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  my_2
-//
-//  Created by Виолетта on 06.09.16.
-//  Copyright © 2016 Виолетта. All rights reserved.
-//
+
 
 #include <iostream>
 using namespace std;
