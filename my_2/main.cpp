@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
->>>>>>> ce75fa9... Update main.cpp
-=======
->>>>>>> 89a77a0... Update main.cpp
 #include <iostream>
 using namespace std;
 int main(int argc, const char * argv[]) {
